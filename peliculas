@@ -1,16 +1,15 @@
 [
   {
-    "name": "REPARADAS",
+    "name": "RECIEN AGREGADAS",
     "samples": [
       {
-        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189GmOPe6THwKrh6DfrcZ/nHWdgSE6/EHM0C9kZQK/jaP4ZreB0u9M603WdtEh1TtXIc7i/pRd0XuGY/WpRvmQ7wO0ioj+bt7Z8aEHXwuxoqyoqRIrziGQvLujrQaz/3htE5fVgiZbHOIQIAZX3Pi11Bwl59X+yz6l7H3KmGgnEbdjHx4d0XGwEcR/efURkKm1pYOKahSSqhEWbmy689GzgxY="
-      },
-      {
-        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189OsWuKj9sgj955T3Mmnf2oHfX98VzWoE+/kI/H/zP+jAoaZ1rXLLnhoKkLFbao574wS7Mbfm8iSmHwq/GVtF1dwzUbylPb3CvEXMR64Z/DvKCIs4mjYEW2770Ralpegs6zPK9IR6aBzD/1tF5rzBx6hr9xFN0atWuU8hIyO/W+YOeTBNFazKfsmU+skQtM3QXTvnBHwFlN+/WkDTGYfLjM8="
-      },
-      {
-        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqjJd+kSbXji9OLTk3MhxRdMTTrUQQVOvE44zUTmvcbBxK2jn6C9J5mcRrVSpLV5S05qNbnQ+HgslMZ4wt3M+qDFuLpvNb3z5tVdcpHPOEs8RfzNONePJnG3qZusJnenY5CbSFJEfIP6n4S4SkIdg9Qzc+W15qgRqq+zvJ6Hv64TWlyoJCa1Hyr/ELsybEoY7Ubgyi2nph4GUzxjpERWt6PQrX862OgCkcUgEWG84PaGIZzC39KCRnRZ5VOeGlqycZgNlWjt9gr0DHijrNZ9xFAY"
-      },
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189MV1mgwkPPVOY6qU/EUCzX3ow/s5G2kjhvZnUofZlq7pNGZ6axsxfgTH+/rU1ZQJAvppSdbl5nciwReV6kRjr0lHWwRl0CW2YJ/gdEwUVhnStIqI/m7e2fGhB18LsaKsqGXchg+QpOeDQdrEXbw+/UQOndgG7RLOQQ2BW+RaUvkWZZsJQPnJGDIoqtCaiPa2GoMzXCk4ivrEr7iNyROcOIhFoZxXCZ/JlEl/nUx5ByPm"
+      }
+    ]
+  },
+  {
+    "name": "ACCION Y SUSPENSO",
+    "samples": [
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189LzabV4u+VshASgi4N4Q/FrCD+iT/9Hr5ORmRum/L2LlSX7Osy/EQYD4X3tXxyK0P/ts2ZPjS6Ckf1/7hjthDtQIiziaNgRbbvvRFqWl6CzrOu2U2Hm7lO8StZyqpyrKVwJYts49oSbCFmwb4uhT82VzRM8CK/FqxYiECYNKA1Zvy3Vnc8B7EiJ+hCnw2kbBNQ=="
       },
@@ -125,6 +124,9 @@
     "name": "MARVEL & DC",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189OsWuKj9sgj955T3Mmnf2oHfX98VzWoE+/kI/H/zP+jAoaZ1rXLLnhoKkLFbao574wS7Mbfm8iSmHwq/GVtF1dwzUbylPb3CvEXMR64Z/DvKCIs4mjYEW2770Ralpegs6zPK9IR6aBzD/1tF5rzBx6hr9xFN0atWuU8hIyO/W+YOeTBNFazKfsmU+skQtM3QXTvnBHwFlN+/WkDTGYfLjM8="
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZhEje/ta++eEhFDrxNnmn2oNrEG7N1cn6nKAd4vIljMniumIR2hYXf4GIZLfAsrvd5uHVq1PXmA/t2v+FJLTclhSv6aPbOANGfN0gQR6zSSwcogoMwJUB/emBUOOg7VJmThsn67v3pJOovv57nlgpQuT06710Ygb3H5M8w9zz4dts4hdtSwGs1Vjr4+pEqrnNbvC2i07IVPNYqibl5KyXATLavUq1lhsC8oM+hS1Oqzby2F3Jfq91gGt+w/cm12t5oWkB6Hqho+iWligN5ksbbTNMsoLu2pUZ8FBMn539JBDCpP++vWrwF/wXQIoM140hQ=="
       },
       {
@@ -150,6 +152,9 @@
   {
     "name": "👦INFANTILES Y ANIMES👧",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqjJd+kSbXji9OLTk3MhxRdMTTrUQQVOvE44zUTmvcbBxK2jn6C9J5mcRrVSpLV5S05qNbnQ+HgslMZ4wt3M+qDFuLpvNb3z5tVdcpHPOEs8RfzNONePJnG3qZusJnenY5CbSFJEfIP6n4S4SkIdg9Qzc+W15qgRqq+zvJ6Hv64TWlyoJCa1Hyr/ELsybEoY7Ubgyi2nph4GUzxjpERWt6PQrX862OgCkcUgEWG84PaGIZzC39KCRnRZ5VOeGlqycZgNlWjt9gr0DHijrNZ9xFAY"
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqjUvbDS/OtOGG548EDv5vj1hGVvohVwd+gkAzlCt+DuZCubdqRygjL/hJ+Dq62cgXxRQsITsT/eKMadkBatS4BQEBgQ8epLwnwFG462/5N5TbrhhIzyXUmbnJ0YPD0l6GgFqhvT5mJ00K38TIMd4NGpLkU8qbwSRmicUzybvsPqliv7tlH+4cegxiCB1dECumaOMnJHpeDzg5RW1A4TLxzcxvk3oWza/kOj57HMiwsEOg=="
       },
@@ -305,6 +310,12 @@
     "name": "😅🤣COMEDIAS Y FAMILIA👩‍👩‍👦‍👦",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189GmOPe6THwKrh6DfrcZ/nHWdgSE6/EHM0C9kZQK/jaP4ZreB0u9M603WdtEh1TtXIc7i/pRd0XuGY/WpRvmQ7wO0ioj+bt7Z8aEHXwuxoqyoqRIrziGQvLujrQaz/3htE5fVgiZbHOIQIAZX3Pi11Bwl59X+yz6l7H3KmGgnEbdjHx4d0XGwEcR/efURkKm1pYOKahSSqhEWbmy689GzgxY="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189B9lMvFuYBVoh4SALFqlQAHmbv7hRaC6uUbX61ZOFg/QaqUYb7rMxuF0qINsvj+U6J7rPlyJZZfYmYbIIXbyWTuOAy+pjcuUKYtUJnF+NALNGkVaHeSQWgZN44B6gO1YNXei4goPv7AP0pkyBE2tX3qPyvSraAjRBgv3oeskcEcXPdB0j2z4wvuyqkvs0QVku0uov4FLR7ybrGEQUrSrmKG4Hp6eQC25t9ld6vzH5N8e"
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189MV1mgwkPPVOY6qU/EUCzX26q6atoasRUuYmct7GpYB+Yl+kY6kqlXRqNDkBtwE9moxlBZ2gQbMjxLOsok9O+fvkAXFXLNZcewHKqKp0YcObPTgBopDaF3gvVk3JAcCoKwx6PiQDXXcRCvpr6QDzPzHUrdPMdmiPT31OFuiEq6NmZiR93mLMNk6oOswf9D7/TZBubOuEzw94+G9Vj4yLl4N3ixVY6AMrF6oRSCWSVfzn"
       },
       {
@@ -425,9 +436,6 @@
     "samples": [
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqjUvbDS/OtOGG548EDv5vj1hGVvohVwd+gkAzlCt+DuZBxSy505JqEu5C3ts5ebbTFSi6EZbUM4FBCaI/o9jFMAqhQ9QX9Nor5/gmi8Kn3GvevyrH89wtu2tb3VOO3svBD9q+3UxuLHagZYiPK97MaRYoW7NZleVCajHJ6W0GakMUiSrapWoyip+D3y9RVCjleUbk0+ocChMLCxOtBm9dnZ"
-      },
-      {
-        "code": "5OyR3j12Rh+Beu1gkv9WZhQBS/KRN84LrWPHzHIPl4Ibf7oKeCn8dDu4ecHNwAac2xSeJzqbLSRcOkXBXcycefcbDJlsbWf6SkgTyq0uNafIk7aOpNxEO69fsR2xWdqtSzKfGc5QGk3ubms6WzS4Lgh1eSUHizpikubvjOWjMjypydI0q/NQbUzumU5plcwsAyVQldB50xMN0rjzl2+qOBrzHV1o1jGUrVAFA2xfXDkDKr55JX9o41Lm7Yhfu1WAX+b7A86cvlB1hY+EoMaSyC+nH/di5SN7mRlO3vLpghWSvY38TEaoOIMdM9mVG/KTJCKsBamXuihLDXRdnp4eUzd5WPCG5DeNqI4HWQpV2w9XHemkLj2UPAPflIOMZzQuqhSehvJ4v61yLy5lspTG0rWpGyJS3iie0gXMsvlGF5AjVXTzvNdw0Ekrs3qMdebr1xifYKkmfE4GH/dEvL0TnUbD3QuMV4vG8mZKZPzF0fsQvhzMD/cixKuRgi3ujLlcYTHRVIfAf1P1iQr2UV1P6Q=="
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZtB6hBIp/GqELtwUBYY7qxA121beWNkYSI3zaDvZN/bUZDRoKqKYiVumR3gNFU/6ABy95BRUeKGptYFfBPj98k5LnsmR0nI1j29A22PzYFu/n40li6vYHEcQM1jgpVdWiBGuRhrOeB0GalNr89SU4lQZSY/4WMMdyW67hQzYuMoYdaIsdAbkIbMFt/qSdFJ2eYfEidohQ4JuhTFMOXeX30hytJy0eR83l8oGHrTiMmDCVBZOjRNo8eeADcIQopGf4vwFLOTDYxxDjaCqFbIHDNF6GmVZYD8Zfc9roCKpqY32I+ctgqLJtvtpRYZtXJg/8vkHaFd+gv27cBlqtR7KCbq4Bhwt+h2apkLmZmvjLkxBmjdvuTcWo+hfzah3NSoQ0/xuIMaudzOkXOeRTEVjxsfA5UFoacqRFfutqJqKssfY2ye3dGpFsXehsuAnik/Ajg=="
