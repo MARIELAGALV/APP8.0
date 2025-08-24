@@ -1,6 +1,6 @@
 [
   {
-    "name": "ACCION Y SUSPENSO AGREGANDO",
+    "name": "ACCION Y SUSPENSO",
     "samples": [
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZnBcp3B9lrkHNhR0QgIzoAdndrW78YffGYe0t6PMOAG+v+rYiiL624QbLRtyXafTvsI+UTHWwlgnAytI0HMPc4Lt/fuqR5VeNJR609GYU1W9VNkcXdcJX9pLG6rgX4BiYCPLuO2md41yVpv9YgoUuT0IhzveVVjaleyctft6U7/3EnkuMCG5K8ecoOT3TQ0sbUApTZuM12fKNMY8ifUOGEf3Ou9kYM7kdVEYwSvvvce6w9Fv7v6ZWtTe8lTsKesF8+26teBKJlvwf60oKHUsN0+DimoUkqoRFm5suvPRs4MW"
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "name": "MARVEL & DC AGREGANDO",
+    "name": "MARVEL & DC",
     "samples": [
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZj/ohVMOG91xsy8l/f13LIUlYqqFmecY0qqRWwPDCnXEaob9iAyq5O3L+1hZXZ/hWw4gNHOzhR+8Uxli/frTYDZwLxnGGxuQxNThDM+yXK+seUgfPNqa8sEGjUpj0dPS735w1+z2CNaHn0AnUln9QRDdERVz3CvUWeQ3FXEOio5dnXA6XUxuPc04H3O/3E7cxcb5N6Fs2v5Do+exzIsLBDo="
@@ -181,8 +181,23 @@
     ]
   },
   {
-    "name": "INFANTILES Y ANIMES AGREGANDO",
+    "name": "INFANTILES Y ANIMES",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZumFZ+6lCevUPPJpSU0nwZL3tkgD3j1y9IqwKRz+RH17HYrRpsJRLFLJq+4bTmXbQZ6XgChdQCckGG/pdJYdXz27XG3cP+FwNx+WzSzb1gfQMnVz8R9rffBZA7nYyb70vHPlteaoEaqvs7yeh7+uE1p/9u3mI5eWgWKjDOAo1BJoNjoUaXDB4qQvpT0F/i5nsqO7slnyFU7Xz6uRmHPAe1AU8VkhC6u/F1hAZWL0/qfXMvmp7XkWxefdRnJc9vwMShvTuyBns34Va3W3qwNMFxY="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZr9K5UYDanfUY7O4/n4uRTiXjdDhBGvbSRKFEiLlEIF8dmFRH9j22Mu+syAPuv55HSsD3ZpXIpvgewWgMVFLVi5z5bXmqBGqr7O8noe/rhNaf/bt5iOXloFiowzgKNQSaDY6FGlwweKkL6U9Bf4uZ7LQJtRvnP3EbeuPOeXOcd5qR60SPSNxGSofn39XYedoVA6jI4aC8vRzuai/Ai0rIRy+02QcQ4akBoMto+GWv5zT"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZr2qr5Z1pRRSVxRsv7voqXmomn7G1ScYheQIzp/WyEMMoUeBCZvX7PTQHhOMZpWyEOkvomxTKRmKWoFEdhrR3uEw0Mdw3Btq4/FFV1EU7djxuuGEjPJdSZucnRg8PSXoaDgxKJuVF9ve3Hq9p4NS0yGgObofu2KwkYZfo+tQkEHJ3oPuQSR3a2LUye7IPcYUJtme/8HNMxxCOKGJTur3+c7j3GL2Ow295ZsfLTgVMxhAT0yFVQg32ZDgV9zKWqBnUULtFBwrc0soStH9xpd95i4="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZhqMQK8urhgyJFCF6b5y6gQg/iN8AnqFGGg6S2sDLNiF9NKStmNb+QDmFFh2ZNww6m1VebKgHYoY2MxgNaxFyPMnmRlKfLUvqWRM/F1lvP/DCIs4mjYEW2770Ralpegs6yyZ13sU95+7Sy+epvNXKJ2oXiZKIkfYEtoMecthJhU5W8mjAxxtaFPSZpBVmv/+4Yb1MW9RnzpepkUjbbKGBIKDimoUkqoRFm5suvPRs4MW"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZgPLrMvJzf9jpiKpHF0bHOxNmqefvxT2tXsrT1hO/Er0joQRVdqYm9Y/dkikodak+Uanoj0OdB7zs+7XU14YV3W64YSM8l1Jm5ydGDw9JehoODEom5UX297cer2ng1LTIaA5uh+7YrCRhl+j61CQQcneg+5BJHdrYtTJ7sg9xhQmN7zSrAsFIPScnV2N0P0L9A/UKhmHfPmODLsi+M5dnmFvl8nZKKvog6I+6H7y/6Kb"
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZl+vcqQnGUpq8wjh0CpgA6tRokNG8/UlIREAIvuEbfCWfD9zs2mMyGQsGePgcx2iFavD/Y+dKXd1CVClSzc25xyo+grN69oNIhU0LjM5yQwIB9+EnTjaDOcRzUHCRSo6Q2j33f7InYNApzbiwmZjhRESGRxmfCHiLVdOwB0PSMrS9IxEtb1iycg3+8a/of60hMyA7XXcZm4Wo6qlYk7c6GO6I7takIPE13Gtuwm5Oq8rH7JmDnBm2TsgROpf3vFkyQ=="
       },
@@ -240,7 +255,7 @@
     ]
   },
   {
-    "name": "️DRAMA Y ROMANCE AGREGANDO",
+    "name": "️DRAMA Y ROMANCE",
     "samples": [
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZq4vQm0iTWwYkVKfzDNatg4Y5Uawk7PgmI2WC0r6UOGpV5KFeJlzJVar6FVXq+LZxKyWhf6eJI9GufsNrLw38+664YSM8l1Jm5ydGDw9JehoBaob0+ZidNCt/EyDHeDRqRHfhTB/sYi9FroVBJt8DLcx5jR3s2LEnGoEajCNeJT4yj6Om1NoRPmzHRzZRc/h4DhL2ZgsSGX//K3bDkjNp3g="
@@ -365,8 +380,20 @@
     ]
   },
   {
-    "name": "COMEDIAS Y FAMILIA AGREGANDO",
+    "name": "COMEDIAS Y FAMILIA",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZp9ehVYoZiotElUClBWqY3d//PDwQ81KHbjvakjgTpXen/tavCZ5OcchnA7RXMjKMmCcxPbaZd0hgWIlXk4sjKRCgpZfOL6XcUq0kfEjLExpyJCqHV33pzmjLZXXVseAHb7HC1ArM6pi71B2lX8FFc/3r2O/j760f3BLGmVPNBFKsiJ/5JX1bWC9C6T85uSqqS4Ss7Fy+xhzzrnGx5735oOs9jRe2ta90044VeU82FLsv2+byNrlHuD4b3zg7TEl6A=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZpIkjqn+pBE0dY9r2IGctctY/gclQtN41QfRky8FRjmlEYBiUFPOOyKiT2D+6Hc/qvHSc5B3c/uIu+OqF6LZgvpFduvVvWu3QQSP+Qz+9m0JCIs4mjYEW2770Ralpegs6yyZ13sU95+7Sy+epvNXKJ2oXiZKIkfYEtoMecthJhU5qMJRvfsZw2OvOJQDq25MSAbNiJ48E7MXovA1wvvCs2QABMhga+dBsLEssvzUijC+b5fJ2Sir6IOiPuh+8v+imw=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvpUhRrz2bw56DHG3WnZD2c6HqZmzz53GFGIPK2N+bGSMM2peOeTR3EqFoqh3MqnnAjfNJhrDlLcznOb9tXh9W1CgpZfOL6XcUq0kfEjLExpyJCqHV33pzmjLZXXVseAHb7HC1ArM6pi71B2lX8FFc/3r2O/j760f3BLGmVPNBFKRmDwZnMZu8br4zl3v24mBm+Xydkoq+iDoj7ofvL/ops="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvShlGTMzH6kfEgopVlBI/lK3BWm5eMOsXmH+0GtNN+ris1FXFLh3OdSmMN5/SHqv4MRrcFM1tj5HSIHwf4KpiYIiziaNgRbbvvRFqWl6CzrLJnXexT3n7tLL56m81conaheJkoiR9gS2gx5y2EmFTkkLQ9f7CXdVlSvl6o0L7RGr6iqssl93lKTybBpH365eSuTe6LNO7yiD6GoObtGFRo="
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZufPhExhZ5oxD/+bFy4jtiNC+9gJQEtipAEwhrRbRTkzFv7MGnzpqA4GOL8/MZ1qXMbN082YRSh0Yg+WVmi4z+Lwj/hVRynm6x6uqCkkpRydXkHkpI7lSOEry/+fDJevmRyP1i8dgYp2hMh4aX/RBY7eg+5BJHdrYtTJ7sg9xhQmd5OJk2PKxp/r4jPIeT+sovpY+d1+3msu3TOzOgjstSU="
       },
@@ -505,7 +532,7 @@
     ]
   },
   {
-    "name": "TERROR AGREGANDO",
+    "name": "TERROR",
     "samples": [
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZqpDooxC71lKh4AP1wg0UCOyYAI8ptxsN24OXw7X8VRAUZttO5OLFtlEBtzi1LNHo+XMMlQhdkh8ufzz49cjv6QzEFtkUagVjHhthT7mMfzRAosyiDrU4eTK+NuEaxAbP7/Ixk5bI8ZBygls98ZgI0YimcYoRXDeX3KA5iwjNKuaiDOaTGxok1doG1d+GcSND+wWw75Xx12G80Zm6bWJyNEscZphUmemgyJLiFBlk8ICCIJyiD8iEIokjtShBBYMxMWghd4JojJ88yG8qrXbEAs3I8OFMdnWiaj2pW6gFeJNd1iAyPU/0w0xBnG4I0m0eLZYsqClcoVhBxfmq31Yelc="
