@@ -1,5 +1,55 @@
 [
   {
+    "name": "AGREGADAS A LA APP",
+    "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZhnjDncZtp/ZBaEUMzx4UocSSR5FZQpT8e/RoWzcOTwWP7eyIBe9cMUH1SvUHbCZHvCP+FVHKebrHq6oKSSlHJ1XyZ5J3buU+/UcMxvT4LW/o6gjPU/L5QA/2jhGcCgVMTkFBoJ5CXEsuJAkUj6Fr7CO5P2fUluuxbz688NILxMIkITgtEO+QSDc7+yk4xkEkQ=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZo4nySb/o51ueIG3SwBTXj33lZwpCYLBocRn3T2hXPdhxy7GDiFuS3gl5zHxtRTUsVfY/YaLVIFZGjPefU7yT5K64YSM8l1Jm5ydGDw9JehoODEom5UX297cer2ng1LTIaA5uh+7YrCRhl+j61CQQcneg+5BJHdrYtTJ7sg9xhQmMRak/VK1SEwuOgRCJyXjUxslQx0pyzewPkm6zSMcJwE="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZjUo259hGDDTb2bg/xCC6Np3Lo7SWJzx54/FKQ0LYq3sDRNAGu10zmi1PKiIrMZVfpEVXAuUO3V97ljJDLEoWfEIiziaNgRbbvvRFqWl6CzrLJnXexT3n7tLL56m81conaheJkoiR9gS2gx5y2EmFTkZG8amffk3tSNRqVVApsa+0fJ9sIO45icrdk/s8haZ5PEvllgTwuWA3WMf3UOBwbYKk/769avAX/BdAigzXjSF"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZsIcu1s8ox9Qakva7Pz+3oTL5CuViKaS74gleeeuWt91C7iHw2auGsqutio00ZSAzdUg0hXqw+oixUGp6TmULXa0ioj+bt7Z8aEHXwuxoqyomXxq4DXxCuR/j0gpL+VkspZ/qhrsLJaumJDDMLap+mZs7vWJRvTnAsGJKaZCD8HIWVrTzX2kBupG2LwgZ81ZTRvTuyBns34Va3W3qwNMFxY="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZqrHQORKMEfpc9VPnxV6CN1qfLFsJAxyIGpFxTIkWok5KeAgSMZ372k5F0m9JEU2mKqQ+Pd9iYh1zzdhpV4qOj5z5bXmqBGqr7O8noe/rhNaf/bt5iOXloFiowzgKNQSaDY6FGlwweKkL6U9Bf4uZ7J02lDK8Ju0wu/oJh7YatiTGT/lv4+9MMgm74OkJCGIMA=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZo11deLkbmLpj0uRfPXIGPIdLbQk9DxAyl6t+c9mZe0GYp33OBKC17jZVza0SfJWHZtyTo7nx7XPfWKYrnrm7+9wLxnGGxuQxNThDM+yXK+s+xZHDyFant5DbaVqFAhSqIVW20BUpcMH3kx7NkiOvLWEZW+iFXB36CQDOUK34O5kQd9lEw58nRFNZQVX4JVgxPFvMCT3hFD+0Da+wn4t5Dc9u4s2CBsp5RxmuEuArgjr"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZm0iOH1Woz5EPv5J+2CgqnsgrRKNcvUqVbVvFLIOcaUQ6Sl6l6I7AaqOs/R90zyI3pG+Tb1EvD3KA1rjs1thkGS6Kt6nxIAFT+FudIq0FG6UqlvLO9437ZVsC3lbXFR76YUaLrKYBe7Yjf5x5KPOIvngyi2nph4GUzxjpERWt6PQ4fMqu4qhLaCahQKGdydbu2KsdbogFS6zeYncEaG2IOehu/rY/Rrobx3feX1p9BJ1"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZrcMpQ4e/vzeyeMYc4+JfMhQ1H+KbJwAcg8iHt+xQDXKd7TQcPoyviV/6fC/GB5yFJt7cZAgETjCF4TX+ntKHU8IiziaNgRbbvvRFqWl6CzrLJnXexT3n7tLL56m81conaheJkoiR9gS2gx5y2EmFTl3lB0JMKyOBoatz54J5MPc124Agpi8eko0H426FAlpDwqT/vr1q8Bf8F0CKDNeNIU="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZufPhExhZ5oxD/+bFy4jtiNCjUx1Lfj6Rvp4pCr4Pn4kkKBRhLHDwt3oJB2RwSxTRZMHBuSzRK9yAumJhg67tTVGsyjXCQaAvZYMFpIYNuGOEPuFhuoAfCfSFVDTiCeND7nJXSi9vIQ96FYcwW9vFjj3YWRD98Pwl496RwkZV+NVthT8VY4CaCeOa7rukMeYVQ=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZk7DApmvkfbAi2caXgGX/7FDw/aB299K3A2j4/QkRchZ/P5S/1qzd3Odrs8SILoOr/5ZVsm3bKXN/u6jm+zWq3a64YSM8l1Jm5ydGDw9JehoODEom5UX297cer2ng1LTIaA5uh+7YrCRhl+j61CQQcneg+5BJHdrYtTJ7sg9xhQm4neBMdQUih+wzc0SOmbY0ey1+oSHrEu3B6VzgVyRWQU="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZuYYx1PccDT+2YEAXtbxF5AijKJX0+AfK2eqhIQnll+rh46e2jq+/0ULOk5Ngp49egAIgGDrF8WdYvBmfzy8iuX4nMiitkbCRSkSQOGR2HUZ0tPrOPzdbHTbJmWxDH3CU9MkUxwQmetnd6EqL8OU/qZrniMjqqyUNvfDtyg3jRkZLK1+bB1QHW2yq4VQCkr+oZzFFY/zHm/T364tlulczoA="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvg/ukUxbv9QsquWCFyjQ+pfXSA4zr5A0jxWCbyUY36IYTztu2rWrLBuAm/ZhwWBCS9Bgw2/vkXu5dVM752sPVfvlAElt6Vc2q6S/F1ubW8l0pzMnFqvlfrWwMTTntN5RkKCll84vpdxSrSR8SMsTGnIkKodXfenOaMtlddWx4AdvscLUCszqmLvUHaVfwUVz/evY7+PvrR/cEsaZU80EUpIbUfYtmfe1LUoDfKIi9l1gm3n292ibBoGAcq0XVg8rCpbwBhsF2kXjjwiu0tpQ3+DimoUkqoRFm5suvPRs4MW"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZveAlsI6SmfpAhkGI45ivUO0ldUdTJGEKqFKOCDnYFj1j2EIOS+zDoDAg0VhudO3rv9YqFsXD9KD9/9R+e3/QZyubebOR/J3cwojfFDELIRARrMo1wkGgL2WDBaSGDbhjhD7hYbqAHwn0hVQ04gnjQ+5yV0ovbyEPehWHMFvbxY4fpzj9aGKGev9N7pDhB22wI2GAKe7PMyZ4kzAvQ1qJn0VC1swDrBwrhdNdxEBq+WXCpP++vWrwF/wXQIoM140hQ=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZhYA8TgXf2PRUOXKMF89iNZD/AYjhbAbaih/GDigDQRUAjGY4e+awKy8Gb9p0NLTQntBrO52iRm8GjmGXrM47pu5TU4Vhd/oZyNwA6PISdUHc+W15qgRqq+zvJ6Hv64TWn/27eYjl5aBYqMM4CjUEmg2OhRpcMHipC+lPQX+Lmey28/GCKX+i28z6L0rhyOAdj5yby8QvKK5D47eS5DPsh/m5OvTZJEg7JA8/u/b/7Fzobv62P0a6G8d33l9afQSdQ=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZpLST6XYKZLB3doDca4PHPR0fGQthYbpvsF+jCv27Q9AZ1lpiLbnrWrjh0WL9jiOQvCP+FVHKebrHq6oKSSlHJ1XyZ5J3buU+/UcMxvT4LW/o6gjPU/L5QA/2jhGcCgVMTkFBoJ5CXEsuJAkUj6Fr7BWmI7wXmhqc32jLdbjY8S4aERZ/a5RV0wJyLVKdj7vnIOKahSSqhEWbmy689GzgxY="
+      }
+    ]
+  },
+  {
     "name": "ACCION Y SUSPENSO",
     "samples": [
       {
