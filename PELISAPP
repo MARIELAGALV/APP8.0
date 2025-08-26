@@ -33,9 +33,6 @@
         "code": "5OyR3j12Rh+Beu1gkv9WZnJ0lKzN9kB1JnmJ7tj8enlL4VYaeuL0kZCTrrC+2f/s4Hsz+jYk991jYEBUgnyPwntE6jCzUDK2OdCbSHjIm3EoWnNQqhqyw+RuNPnHG2xh+eczFBUekyn1Nwzd4c/5YjJ99qQ984sFEt/3n/WdSRfwQQAslFXG6kZ/HVBt2z9fxhIPMgJRnHmLbg6sSFM+IHX0w7MsHvkItnVn9yz2eMsb07sgZ7N+FWt1t6sDTBcW"
       },
       {
-        "code": "5OyR3j12Rh+Beu1gkv9WZm0v+In3BzENnBYXRAXVjsvW28X4EJGFfHotFdQ4fuzXfRj8wMAfDM1k2xSDJzDEQfJ7x8niLQxSqtXGbpk57wlCgpZfOL6XcUq0kfEjLExpyJCqHV33pzmjLZXXVseAHabKpWNngqMpAmV4/ay0MUYVY1UC5Hkqm/zFwZG9VCNsFhFv+yUgj+vJly9UHjsX94aEh2+3zngR3Ats0uRPXWc="
-      },
-      {
         "code": "5OyR3j12Rh+Beu1gkv9WZtgLEvaPwN17jrHpO6Vp4ragICCOpDITYyaI+Uzk4Q49SX7Osy/EQYD4X3tXxyK0P9sTdt9tkHftjtonYeLCvFfXeYgu3MQNplZyBdopVOstNYp+7aCGnKHeTVrGYI3phMu0zFRb5r6zU/MSOH8wZ6aRZjUkN1DW1WTYqiUncw17DgWMoY79I+ELvR1XAVhen6G7+tj9GuhvHd95fWn0EnU="
       },
       {
@@ -183,9 +180,6 @@
         "code": "5OyR3j12Rh+Beu1gkv9WZlZNTVi0Ntn3BTZPb1SeJh0pcEJ9+iXrWz3HCJfgw6RBe8kagkeC6fTaIvILpBNN01hTpDe6rhZmY64JoISR0U8SeS4wIbkrx5yg5PdNDSxtHKzfKgSWMvNvcmQuYAL1uP02mNgBnk2w6dwZR6X2Ui+OOcSk4Fj3HUCbtxRzwGZDEVzkW4J9zjL5yAEyTEtGqr9vm8ja5R7g+G984O0xJeg="
       },
       {
-        "code": "5OyR3j12Rh+Beu1gkv9WZhnjDncZtp/ZBaEUMzx4Uodh4APmdpIsS/vasly3VDDOta6POQZzRd0gGo1lwoeSuQJWD+tZAJjoTXYo4xzgfvTr8qx/PcLbtrW91Tjt7LwQGmdXzhWQDG+2QMkFFIAYmlfuSet4j+a3cuBO3OEO+gMkhBdcbjLy50HDKUATqa0hIJCRvI5qpwQv1cBP7AUJvt1NVz8YMb5FB6S5iU+zXRU="
-      },
-      {
         "code": "5OyR3j12Rh+Beu1gkv9WZk7DApmvkfbAi2caXgGX/7GMjPc7G7SLHCo02GJENpzSMBe+kC5i9UlENrxeEwCqSaOc1v8uYHpgNHMxDszvBEr6kIA88ngGXLCAkewpu/OCCIs4mjYEW2770Ralpegs6yyZ13sU95+7Sy+epvNXKJ2oXiZKIkfYEtoMecthJhU5JSU9wvfnz8q9Enn68rVq03wEcxF8nMspWv0LmmN0vyYTgyMkwDGUGcS5NoDMTFdu"
       },
       {
@@ -217,6 +211,17 @@
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZiYOb709HpAWVGLBDrkylWJFezTTlgGXu+Ea846zCqoz6RB4OzlX22Wp65lH8c9LUtCg6jQzRuhigUixpfwyGbgSeS4wIbkrx5yg5PdNDSxtHKzfKgSWMvNvcmQuYAL1uP02mNgBnk2w6dwZR6X2Ui9AcoVwfkhoQsxmJsclyYDZt1GH0yRXdxsD8Z5WsZwA3kUJ+rH66uuwPe3uP3Ln900="
+      }
+    ]
+  },
+  {
+    "name": "RELIGION",
+    "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZm0v+In3BzENnBYXRAXVjsvW28X4EJGFfHotFdQ4fuzXfRj8wMAfDM1k2xSDJzDEQfJ7x8niLQxSqtXGbpk57wlCgpZfOL6XcUq0kfEjLExpyJCqHV33pzmjLZXXVseAHabKpWNngqMpAmV4/ay0MUYVY1UC5Hkqm/zFwZG9VCNsFhFv+yUgj+vJly9UHjsX94aEh2+3zngR3Ats0uRPXWc="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZhnjDncZtp/ZBaEUMzx4Uodh4APmdpIsS/vasly3VDDOta6POQZzRd0gGo1lwoeSuQJWD+tZAJjoTXYo4xzgfvTr8qx/PcLbtrW91Tjt7LwQGmdXzhWQDG+2QMkFFIAYmlfuSet4j+a3cuBO3OEO+gMkhBdcbjLy50HDKUATqa0hIJCRvI5qpwQv1cBP7AUJvt1NVz8YMb5FB6S5iU+zXRU="
       }
     ]
   },
