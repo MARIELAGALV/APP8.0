@@ -3,6 +3,9 @@
     "name": "AGREGADAS A LA APP",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZkgvid8S31hRRwzMcWINZ97jc2XOzIU8kdX54n7L5kKENo3m+N2bUfKw5Siov03fTnUeCKMdLsULyXpXpx4zHFQFLFCZMfUy/c7OUkuhy69xXHLTHpV4lRDMA9bEYzMoDgoQLMziw+wYle3+Ipyw50I/OiETmv2qEz4dfLxyD3YEG4JqlX8Zs7jtinLCyYVxIbC6vyk5lWAYX7uTr5BtZDcNxm6mRSfQ4XvE6xZVwMyf+lj53X7eay7dM7M6COy1JQ=="
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZrIBYE4e6u8us3gCO1hKobKRsBokJI9EclLauf8gpiY+y1RA9w9mawmz2UU+AhT64+wnJuW94yzu3A1+Rv+IVzH19Xj/pTg1OhkQolkCrau2Anji4ai+PUO13lZxMIjeS5SrYrTxPPkWK8bWGdAKXmaE0h68gx3c3+lHc8hd7nmj+Il5Vx4SPi8QTQEH1LBbzEVYkGIdJwz09j+nVfG8fUw="
       },
       {
@@ -10,12 +13,6 @@
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZt6/NSvljCV1tbxzdvzusIPHB2XXqTg2lI1CX8k6KaCjnTQFwOpVIblkFisDqwnySfrWd/qustKhlNOMR1PCLda6Kt6nxIAFT+FudIq0FG6UqlvLO9437ZVsC3lbXFR76bzAXQ4I6ZIN51LXC/3nSNbEHBsKpTDDRTox/2wmqfMoTd1Qr/w6Cau7qvYshuYp+0tsuXwHIg6GohF9t2nVRxA="
-      },
-      {
-        "code": "5OyR3j12Rh+Beu1gkv9WZnusLaEshdLYid3Ou2uJwf2JQn7eqdLGxDg9Ii4xCrN1KUktbEtoNrV/yGFBK6C42SjRcjtFWV4FMZeg76DgNed2K1U+e7ZHEgutkMJGvpRy8I/4VUcp5userqgpJKUcnVfJnkndu5T79RwzG9Pgtb93JT4f73SvHAHDConKTHUzNBCPvygAbuV2o6C5OG1Eb0GSZn28ROBA0gV/vrpnru8LDRZYeDh0zKdKjTdp2Ue8e509v/jBBFaaN6WYWvaoEQ=="
-      },
-      {
-        "code": "5OyR3j12Rh+Beu1gkv9WZoH+v1qB4tnoQVDzw7Yq1/qQJPw6PoU1UO99JAp0P01GFqPF55WyjbtoUH7quC0S3mwMJMfA8GCC+gA+QiYddBcIiziaNgRbbvvRFqWl6CzrBWPD6yzHV6fRfiG8Od1M187u+pv6Tm6RKY2DJst8Hz7eFEATNtn64TjBmm0gUOI+QnEl31MUmkfjpIxYZDzbq/pY+d1+3msu3TOzOgjstSU="
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZu0kHr0ZLSZLNz/lueCXacDd1Hr1dethTd6jYZRJ2HHnzQAtxTY95bwhTd4dlukb5HX2hLvWCiLg79tgNhMdcExGsyjXCQaAvZYMFpIYNuGOEIOTTv/k78sFgdA7sCrY/NpZwWqUAPqBuxIcFwlg+f2Ky+ceHVKo5tju3rIiGeA+NCZ60h/Q+EFamzeUxpi0+w=="
@@ -28,9 +25,6 @@
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZqzKQOXSHbnKMjbvZeaLVWICZRHZTYnGhWrbFk8Eal4I5Qr4fPLkfe/qscpDLpMBCm1mC4LN6YM/lsRFPIpsD+6dZLEYUkZm1ruRFTFEysvQ13mILtzEDaZWcgXaKVTrLddqPr9MgB/ALVTLC3bHyMu1ZgXP7EABjJde3Bm0wSlhSD6YmkG0r4hFjRiC9npgAcApbyCInSP3lvLwJZ+NOpX6WPndft5rLt0zszoI7LUl"
-      },
-      {
-        "code": "5OyR3j12Rh+Beu1gkv9WZtKrFCvwKwwxavoLeFZVjfoU94kzXyyEJQqAqB29sFAm2y8zbZxxTYwlVhszndMBKZINAG64pBmQXKDBGDtTx+JwLxnGGxuQxNThDM+yXK+s+xZHDyFant5DbaVqFAhSqN/Le5gxc7jz93fWI4Q6OldQjOkUFkpP6qB+qWvZ+np12ExQ9xM4JvZJlfwxOlKVGhpqwQnbGOVl2kH1XrNvmkl7nT2/+MEEVpo3pZha9qgR"
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZgJRgXCgBm1as4bC6uwHFcTIRtUaBHmZCnJ7MQdZ0+3ouZbCvNUowb9giI0vY5s0wiEtqq4HAjOwMbW41qG7BbVCgpZfOL6XcUq0kfEjLExpyJCqHV33pzmjLZXXVseAHZInHt3Eh3/at/574CID7Bvlfe+1srEOL5UHtTS+3NGUSUF49Nl4zGS4PEdDtWqZ0vo22oQ/JUALSKfNh59lo30="
@@ -436,6 +430,9 @@
     "name": "️DRAMA Y ROMANCE",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZtKrFCvwKwwxavoLeFZVjfoU94kzXyyEJQqAqB29sFAm2y8zbZxxTYwlVhszndMBKZINAG64pBmQXKDBGDtTx+JwLxnGGxuQxNThDM+yXK+s+xZHDyFant5DbaVqFAhSqN/Le5gxc7jz93fWI4Q6OldQjOkUFkpP6qB+qWvZ+np12ExQ9xM4JvZJlfwxOlKVGhpqwQnbGOVl2kH1XrNvmkl7nT2/+MEEVpo3pZha9qgR"
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZr37uKDSyP6owVQPckMVvAD4bJWc9Vm3xITTSwfCP7ug1hRD4Rpjocf7/P+5EaviDOJOwrOF+s+pxuApahw0sm3XeYgu3MQNplZyBdopVOstNYp+7aCGnKHeTVrGYI3phMu0zFRb5r6zU/MSOH8wZ6a7cMZyPSx/GurWbPwSzNRKJl3+iNyA3/gNXQTARKVxOQqT/vr1q8Bf8F0CKDNeNIU="
       },
       {
@@ -820,6 +817,12 @@
   {
     "name": "TERROR",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZnusLaEshdLYid3Ou2uJwf2JQn7eqdLGxDg9Ii4xCrN1KUktbEtoNrV/yGFBK6C42SjRcjtFWV4FMZeg76DgNed2K1U+e7ZHEgutkMJGvpRy8I/4VUcp5userqgpJKUcnVfJnkndu5T79RwzG9Pgtb93JT4f73SvHAHDConKTHUzNBCPvygAbuV2o6C5OG1Eb0GSZn28ROBA0gV/vrpnru8LDRZYeDh0zKdKjTdp2Ue8e509v/jBBFaaN6WYWvaoEQ=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZoH+v1qB4tnoQVDzw7Yq1/qQJPw6PoU1UO99JAp0P01GFqPF55WyjbtoUH7quC0S3mwMJMfA8GCC+gA+QiYddBcIiziaNgRbbvvRFqWl6CzrBWPD6yzHV6fRfiG8Od1M187u+pv6Tm6RKY2DJst8Hz7eFEATNtn64TjBmm0gUOI+QnEl31MUmkfjpIxYZDzbq/pY+d1+3msu3TOzOgjstSU="
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZsIcu1s8ox9Qakva7Pz+3oQXGBdQ7H09sx4qOo0/hNpvDRj1iRnTtcRYQ+4zpXqOXXjMViAcQDG/LfT4SBZlYHvgtokmzPDVUYuKkGftY2xGXbmprfYeUA6SvEu2v/EoBA4ch9O1Yrb5RMVVC9BhzmyKXB8n/4gNEHX7tXrkTQMCHoYPKt5dEsAQyTa22InL5n8BUsaeWMqW3p2jGmBvmSSDimoUkqoRFm5suvPRs4MW"
       },
