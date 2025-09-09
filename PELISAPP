@@ -3,6 +3,9 @@
     "name": "AGREGADAS A LA APP",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqjNoaY3p0HRDEf1jjoBrbaP4Motp6YeBlM8Y6REVrej0EP6C6wBdajzjHKOK6vMcxO/FjqQwTdg1lKNRJxPsJgidfk2LtX6DMU18x6hNoz2sQInkWtG/yZ5cqVZDZhbCNtOxsiMyttG9Aupo2vLQbVG7v69VWn25/Dm+l9Tf9idN0r+VDGIbnnXT+MN6DHH221GF9xQsRMiihKcoFbrtnhc"
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZkgvid8S31hRRwzMcWINZ97jc2XOzIU8kdX54n7L5kKENo3m+N2bUfKw5Siov03fTnUeCKMdLsULyXpXpx4zHFQFLFCZMfUy/c7OUkuhy69xXHLTHpV4lRDMA9bEYzMoDgiLOJo2BFtu+9EWpaXoLOu/HUIwckuKzAFfCodWKxBB11657veh6LzEwei7cjOTx7ay3ahrZMM9SmiaUs1BbdaHLCGZmcITFB2hFBuxgcpCeFVBzLeHn8+aqlAxirRxhg=="
       },
       {
@@ -837,6 +840,18 @@
   {
     "name": "TERROR",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqjNoaY3p0HRDEf1jjoBrbaP4Motp6YeBlM8Y6REVrej0NiNzTCkMu/NhcRhyQ/8MNbC5ZwhDV4eLDEatE8yBHBxzu5Ac6SWZBsVhg3tH6kWXh7rsVpjqdeJAQ0nm8K5+i9pUa0PYWGV5af3zaIuzh6SAieRa0b/JnlypVkNmFsI207GyIzK20b0C6mja8tBtUbu/r1Vafbn8Ob6X1N/2J03cE9KNKmTqJ/stIQR7Q7rd46c+uu/rKqIrGG5PfOT+PY="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqjNoaY3p0HRDEf1jjoBrbaP4Motp6YeBlM8Y6REVrej0PNUYijgahii8ojFFFEuN/WxZB9BaKZoBhaqIKx/dfFVuuGEjPJdSZucnRg8PSXoaDgxKJuVF9ve3Hq9p4NS0yEtnSHJHPUPdEhis8Ta7Q5Fp/serCEnPz5TZh/TNawPUffQpEYYVZJFORzWvzXLXo8="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqjNoaY3p0HRDEf1jjoBrbaP4Motp6YeBlM8Y6REVrej0CZr0GMOyRo/pm3tWYOA2WIVrNaVqTjv8eeFzGOPilFJSe2lBkfZ4aQmazFQXcjtvChac1CqGrLD5G40+ccbbGH55zMUFR6TKfU3DN3hz/litBqkO94hBhdUUrxbXNSj9PdjNQUV3IHcwvw1G+U/HJ7Nh3LmI7MYwfrqiMBWOKuW"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqjNoaY3p0HRDEf1jjoBrbaP4Motp6YeBlM8Y6REVrej0Nb45SvqllgawHhktTcCieicQVKOj0F1or4WJeJqhcAEEriiP6cPiMYFcnxZyestd9d5iC7cxA2mVnIF2ilU6y2obl8izha7qBLrVyblXFs/3oPuQSR3a2LUye7IPcYUJhzJIznB4Oflx2PyzT44qdK/b5vI2uUe4PhvfODtMSXo"
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZnusLaEshdLYid3Ou2uJwf2JQn7eqdLGxDg9Ii4xCrN1KUktbEtoNrV/yGFBK6C42SjRcjtFWV4FMZeg76DgNed2K1U+e7ZHEgutkMJGvpRy8I/4VUcp5userqgpJKUcnVfJnkndu5T79RwzG9Pgtb93JT4f73SvHAHDConKTHUzNBCPvygAbuV2o6C5OG1Eb0GSZn28ROBA0gV/vrpnru8LDRZYeDh0zKdKjTdp2Ue8e509v/jBBFaaN6WYWvaoEQ=="
       },
