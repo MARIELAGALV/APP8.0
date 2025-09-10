@@ -97,7 +97,7 @@
         "code": "5OyR3j12Rh+Beu1gkv9WZjGLxTKnWZitRoR3A3/nytc195aqstINwUEeLeipMONgRYmaECmwl0dd12Wjs/xVsYx0XvTKaZ9PChLX33wnRqxz5bXmqBGqr7O8noe/rhNamYes591kTZRT8gzaywq052ueIyOqrJQ298O3KDeNGRlTDqrIHDK3YSJp/JnvWZYyCpP++vWrwF/wXQIoM140hQ=="
       },
       {
-        "code": "5OyR3j12Rh+Beu1gkv9WZkT+XKDhrpnt1VETrl1YNafG7gq40YBdN6PfstNV048QMvHY4xIoBKtjFvVXynymxUURwaHUB8TssyK4QaJp3ZUoWnNQqhqyw+RuNPnHG2xh+eczFBUekyn1Nwzd4c/5YrQapDveIQYXVFK8W1zUo/Qt6hKXrfXSoj1WYLgSN5IEe509v/jBBFaaN6WYWvaoEQ=="
+        "code": "5OyR3j12Rh+Beu1gkv9WZkyhGy+04tsa71IPItpt21h0w1JN+ROEMrahtBGYUrqOlR6kZOr7M3v6m5Hvm25SvEURwaHUB8TssyK4QaJp3ZUoWnNQqhqyw+RuNPnHG2xh+eczFBUekyn1Nwzd4c/5YrQapDveIQYXVFK8W1zUo/Qt6hKXrfXSoj1WYLgSN5IEe509v/jBBFaaN6WYWvaoEQ=="
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZtgLEvaPwN17jrHpO6Vp4rZNE8IVPCvH26UsR+0nPR3uxYgn+RuRqT3Lrem7DY84B6KXsW1GuaExYu19YESxNLIydXPxH2t98FkDudjJvvS8c+W15qgRqq+zvJ6Hv64TWn/27eYjl5aBYqMM4CjUEmg2OhRpcMHipC+lPQX+LmeyH3i+p/lbkMPKtrOVwNFA6HoRWDzglms7MD8yJHSYenp3xQiUEQ7uQ13OHGjahl1eGAEBl6hUesnySY7TajXq6g=="
@@ -170,9 +170,6 @@
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189MV1mgwkPPVOY6qU/EUCzX2wvpqIOIZxxkbIzJKzTjgwkPbha4qwvNr2hHXUUKGmZ2mNV/s85QtB+c4HkkhBd8H4nMiitkbCRSkSQOGR2HUZ0tPrOPzdbHTbJmWxDH3CU+oDDt7ixb8uCd9+wG6FxRyRlR36LajOjr1yjmi3WHcV19XVJLjQF5wZsgpSrVLGICSjwWcH1E3R8JYkxuUZCjY="
-      },
-      {
-        "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqgSj85ZOEQ4cpuzB4YM7fQQNxsELmzWh5YA0HhyqQ189FWL4CbLohDm8UtBzLUM1b8l84QbfpeTEHo0tWpE6Qj5BAXKM12zTuUfLBZhyvjbegA85rAXX7q4/Xc3fIkOI2dGsyjXCQaAvZYMFpIYNuGOEIOTTv/k78sFgdA7sCrY/NpZwWqUAPqBuxIcFwlg+f2Ky+ceHVKo5tju3rIiGeA+7/RTHFEjwCXVRXwG9EF+Z6G7+tj9GuhvHd95fWn0EnU="
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZvsWRw8hWp7eQ22lahQIUqiFV/NBji2TBcBFFrc/h5Cv3oPuQSR3a2LUye7IPcYUJmpTMtk1wvFJYhQOeOBiVj18ZgKRalDwMchVWrQKV92a9XthcY9Lz+wQgbUX4FW4Z4J8pTXOU5LDTrHDHNIAUHQ3Y3BcyiUmrU9HvOmrB2QmtIqI/m7e2fGhB18LsaKsqGXchg+QpOeDQdrEXbw+/URlaJl2x+F4e3zaCLnIFoddbJw4IsOTrctn3WZiCt1rldTZ1gRtNH4ugt9KieikN+Y="
@@ -296,6 +293,9 @@
   {
     "name": "MARVEL & DC",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZtLaen9lgorvgisKpsgrUUROSz21V2F84zrAxzHlSdbeEVDk9DJb3UxpGXUT2dvut3AvGcYbG5DE1OEMz7Jcr6z7FkcPIVqe3kNtpWoUCFKo38t7mDFzuPP3d9YjhDo6V1CM6RQWSk/qoH6pa9n6enXYTFD3Ezgm9kmV/DE6UpUaw47qvhCASNBEvFgS6bsNjL9vm8ja5R7g+G984O0xJeg="
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZilQ+8kzNPHfeHZKrUm5a/mrJ+MOsRZngrXG5yWDmo81m5LS9hQP70TGLUA+XdWALhbrUlkFGp5eMjzC+HgL0m23Ox3Nwi4bc9MzBOi8bO3313mILtzEDaZWcgXaKVTrLTWKfu2ghpyh3k1axmCN6YTLtMxUW+a+s1PzEjh/MGemrpeoGGMrE12EuRp0OhbaX2c4Tr3mLPqjFPMltZTiRLsQoFSdBB4TTwYZfnRsfn9uv2+byNrlHuD4b3zg7TEl6A=="
       },
