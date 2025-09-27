@@ -77,6 +77,15 @@
     "name": "ACCION Y SUSPENSO",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvshvKilbW3Dxf/Wniu1zFntDxJQ5i0dynfPka5nc0wEEypMKjiY0oxFRAtA29NlDcPXki9EbDM9rbzKZWf+DjhwLxnGGxuQxNThDM+yXK+s+xZHDyFant5DbaVqFAhSqD67n2ivf+n2aYXd1uvejzQ5BQaCeQlxLLiQJFI+ha+wSVO9Wdh1N9xwILn7hk334Q=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZtNuFXKzM9HlURYeKGlxcG8XKxISZ1h3zDlqfrrVXVVEDMs5FogRtlXGibtYloL8uITJ07JU+LPbc5dRW8H2lX5CgpZfOL6XcUq0kfEjLExpyJCqHV33pzmjLZXXVseAHTpYpmipoH8AdhVDO7Bnp1cQrEbKrxigQPPPYTQ1saAw7UdYFieJ4vBbVjJIJVlMMg=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZmLMml/YD16B7ptsnTncBuhlZKfOgb1akNUxrYg3J/n7AuCd++fKeXUJxCqF+M9ccit5HvR/9KPMHpQYY1KgGOzXeYgu3MQNplZyBdopVOstDRDcT7iaMjnjr6f0ZgJiAmeOLE5vx41LpLk119HNVU5mqugHVN273kVTB8KKMVoUe509v/jBBFaaN6WYWvaoEQ=="
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZvpUhRrz2bw56DHG3WnZD2fvWYJzjIS6zl7g2Rm5vI6d6ZeLA73gl5nx60xBd6dop8DsR9u6I/GYbFhxJhu0nq0oWnNQqhqyw+RuNPnHG2xh+eczFBUekyn1Nwzd4c/5Yqsz+ZJiBOvDspPA0Ro/icdrniMjqqyUNvfDtyg3jRkZJ8vHVtlBiyjDS+PLM2x7+L9vm8ja5R7g+G984O0xJeg="
       },
       {
@@ -531,6 +540,9 @@
     "name": "INFANTILES Y ANIMES",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZhnjDncZtp/ZBaEUMzx4UodToA9RBX79CwkVufNYXce+lBWbHDlLSfpgx/5cdmWigz6RtpVjH1fgDrpI/PCnl8Xo4Hu+Fd4iWJX5i6TPXuQm13mILtzEDaZWcgXaKVTrLQ0Q3E+4mjI546+n9GYCYgJnjixOb8eNS6S5NdfRzVVOTimeTY540OgBODEsk77pXBgBAZeoVHrJ8kmO02o16uo="
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZhnjDncZtp/ZBaEUMzx4UodToA9RBX79CwkVufNYXce+HK82wx3ZR4mIe2Ogdbdbg7cz3fPbU7c6WacJAt+hjKG0ioj+bt7Z8aEHXwuxoqyomXxq4DXxCuR/j0gpL+VksmLB/Q7fInBJx+I8NWW9Y0Heg+5BJHdrYtTJ7sg9xhQmqaIDH2CCFYpFStjzjIlqGxgBAZeoVHrJ8kmO02o16uo="
       },
       {
@@ -703,6 +715,18 @@
   {
     "name": "️DRAMA Y ROMANCE",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZiWW41+4JOfkZlOB/s3DySPIPPIHpjvgndhPR2te2V7ozRLG7uGbH361rBlbz/GfsQ1QUntOxxDHuV0XxW0tLsUtWHZCwzsft48IBt67tvuECIs4mjYEW2770Ralpegs6wVjw+ssx1en0X4hvDndTNfO7vqb+k5ukSmNgybLfB8+3hRAEzbZ+uE4wZptIFDiPkXsUCZ1ZwCRD/4zFZZSUImDimoUkqoRFm5suvPRs4MW"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZrbftavI8t9PUZzhguQfHoswkcjdnL6Q/G9AMQRMiZFzP2JOHcQV6B7dPSzFCKlKay/RYh6Tl/6eZq+lpiaZbtUey4ewjs4XrWbRuv5Hq6CQ0ACHwjzudTnJcmLgURKR4boq3qfEgAVP4W50irQUbpSqW8s73jftlWwLeVtcVHvp1aAHtMZEcSiKUDQIMWigFDyMNydSh6bUKJOK0suvzmQl9GEY5+s+HniUWePTfCtuv2+byNrlHuD4b3zg7TEl6A=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZhem/VfYUaayKeFOdNhqjW0nGz4Qbx6kPkgbP4zV+l5uOT59Yfo9PxIR9rHqVP89CDcwSUybijYSv8NSwTPHS8otWHZCwzsft48IBt67tvuECIs4mjYEW2770Ralpegs6wVjw+ssx1en0X4hvDndTNfO7vqb+k5ukSmNgybLfB8+3hRAEzbZ+uE4wZptIFDiPnjkBUkr3RK38erohVst74CDimoUkqoRFm5suvPRs4MW"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZh/1vT318If+LnoRIt5w4bUjueil+EMqpuLeNnMCvRolx4Fi1mlJf3PQaPDIDT+BuNS+SZjbuzdriIJ7WCAOS4xpROsnLKzi7mFYT8gUocSFAieRa0b/JnlypVkNmFsI207GyIzK20b0C6mja8tBtUbu/r1Vafbn8Ob6X1N/2J03O4hiFe01Yoye8hVjrbuQcLuh7jYsBZJ/GOsJe7ur+iw="
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZitxZdZqhchH1Mk1gDSxi3xeFx3rItqJd5+7uA2CW3aNU8eLPl9CBJ2u2XAoBn/l/LrhhIzyXUmbnJ0YPD0l6Gg4MSiblRfb3tx6vaeDUtMhzR2ctw2PrDUR38UTS7bcOYWoZerPdBbTJ6G7mysI1DjnEjHTjshXbmD/xh36JdBCn7bfTYrTTz4uPUGftx0WNA=="
       },
