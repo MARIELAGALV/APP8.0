@@ -3,6 +3,9 @@
     "name": "RELIGION",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvagCQiOwkvZlkHGRHxz6M5itN7d8ehY/6WevywIrrQh7ILDiQz3qIrKBGSDe2DJwsjrcfXX3K9rsO2AURcQU2ZxtDSWEqDoVMX8vuTXsUYrtIqI/m7e2fGhB18LsaKsqCPPZhObNJCSEhySsJP8uRTFDUhs3zSt3EupuselYHeB3XDp3Naro4KYFBtwTfQ19D4Q8RpIVLRsE/iAkSXeooPdcvh7/aDfDtDBl6S50kMv"
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZlS3cy75gDdRMD0CDG/GhcpRPmzpFzqovnlsdhsc/GtCqRmEGgKeB7qDGaLV49QnG3X2hLvWCiLg79tgNhMdcExGsyjXCQaAvZYMFpIYNuGOSPUmOHpyO3QozO3ihjQazQJgyrRfJz707RLaiN47Mv8jiemQEnnbIsym13T+oMj/sQZhlrr2ph2/i3zSSNGkaQ=="
       },
       {
@@ -76,6 +79,12 @@
   {
     "name": "ACCION Y SUSPENSO",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZity9WFMAMQ1U+g8+jxqMEVvr0DYfVf+8NxYJXIibtB0v3VMmo+pSdlZp0yBPqkamw2yGHll2DRVhZ521WnExj8oWnNQqhqyw+RuNPnHG2xh+eczFBUekyn1Nwzd4c/5Yk+LRtfwlHArbFZVx4DSPTsgYaK8t7xYbibgPkzAgbVheFVBzLeHn8+aqlAxirRxhg=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZll8YY6jHfQ2ujOvoZUNl+fp4nctHTiDUtHLpnUCxIQwehlq/Xap3KiKSE410G4SYusACdyystk+GiQSOL3xB+ooWnNQqhqyw+RuNPnHG2xh+eczFBUekyn1Nwzd4c/5Yk+LRtfwlHArbFZVx4DSPTvEoU0S4WkuzAYP7Sh6ktVueFVBzLeHn8+aqlAxirRxhg=="
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZprzBZGcaOQeL/OaE9QhCU4401B3Hz6JopF2VI6ud71FTQKTltO/UUjqNIBh/kghm38I9tVND298fKumGf5vYmdz5bXmqBGqr7O8noe/rhNaFqlq9lP68f0j11QfrAzy/96D7kEkd2ti1MnuyD3GFCYqPm9YLYCPQrv9ZIMQXXMev2+byNrlHuD4b3zg7TEl6A=="
       },
@@ -1165,6 +1174,9 @@
   {
     "name": "TERROR",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZkvsYHoVm8bkrKek2Gh2l6rkRRMxgQhClRgHTEbm1i3grENrGhSMMzHWtfI1na0qp1k6WWc1eG5SeF3QJlMtoUf4nMiitkbCRSkSQOGR2HUZ0tPrOPzdbHTbJmWxDH3CUyZ7I/Ih3YX4UqO6hiH8U4GmBYhg1+K94oXAVi5qEiVLt/LByaBz6t7c6gMWv92sgg=="
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZmU7Wy3FpZxh7nVbEet3NqzSUq/ULrvsq5ZDDmbvJ4dMQGGmQmS6/eJCdp/hISFAGnIYxzDEZp8UeAbG/ahGtnhwLxnGGxuQxNThDM+yXK+s+xZHDyFant5DbaVqFAhSqN/Le5gxc7jz93fWI4Q6OldQjOkUFkpP6qB+qWvZ+np12ExQ9xM4JvZJlfwxOlKVGgHaOEY1Q0Z9YbyL71q9GCw="
       },
