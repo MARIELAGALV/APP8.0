@@ -77,6 +77,9 @@
     "name": "ACCION Y SUSPENSO",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZqpDooxC71lKh4AP1wg0UCOyYAI8ptxsN24OXw7X8VRAISFbUGVn22ujbPGP1czkcWRdKTcbyzd6jfrG1dJDKdI7vatvxsiw3BqpuTmrGDVGFSZDGRdbLuxLgzizWlyb6ylP/KoChAUAFINNNEmyWw7wwB9NqxwDFqgHIscSoFNdHh97pcfcX3eoJjSPL682/uAQXJKQ3BMtR51GAR1di8W6Kt6nxIAFT+FudIq0FG6UqlvLO9437ZVsC3lbXFR76cNz2J7Fjbk90c/3IS7w+KU31PyGXfp8qnhHk1mS/4qH07cxMaVe3IEiCpfhdd5HoQ=="
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZnCy1AcNXgZ8D6it36/496JS95i37x+9hgsB5JuqwnS2qDArRdsbQeW7FwzxuBUJzm1dvKS6wIFCEDcKcziBIPrheoDbzAADDQEsM20xFazVyP/HMDLuPo50wBwPD8ljlm0u9orIuFHMbopsNj0UY84CJ5FrRv8meXKlWQ2YWwjbTAEdYEA8mPrrSPHcaGqDznKx5KNrX+zPLStYDnjeT66lwPfJAWy83ld7CoRUoK+AGAEBl6hUesnySY7TajXq6g=="
       },
       {
@@ -1180,6 +1183,9 @@
   {
     "name": "TERROR",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZmxlRUVoku6nJ7M90tTn1BoKtw4Ud2NYVhmHHLgu9nI3MABwgfne5t2CKx4fBpJ71FI3ieoKBUsmskDCIk3JSgpKUlzKxCU5Ba2dW0VY0bAEeOx6qptuP9UPy1rvNtFWgVzprsd2xRGPjhzPeu+bx3G64YSM8l1Jm5ydGDw9JehoODEom5UX297cer2ng1LTIQ96/1t24gkdqL5dh8X7Cgyn+x6sISc/PlNmH9M1rA9RUIWUV5gRbbgUXsAOW7IwWg=="
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZqpDooxC71lKh4AP1wg0UCOyYAI8ptxsN24OXw7X8VRAxktRHAq7Ghtv7wyzICEqfCO7kf3+d3gY9Uxk/b/3fLa3N89d+EN0IG/JPu612mK/Hbr/nCQaAAwqD2xCwI3557/Ixk5bI8ZBygls98ZgI0YJ0PgzowoC3rI+fX7mlOE5BGa4kW2gw9mk7J2am6iqvJu+xXh1H9gKe//Qhbtmh++4ThMFSf/FqUd8fBN1iDJ1ywk1QHlCx2yQpQj3/GSnH9uAPLWJpX3gns92Tqxw4NJtz7mdXK8kJghDx9ljexDe"
       },
