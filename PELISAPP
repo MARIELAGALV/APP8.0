@@ -77,6 +77,12 @@
     "name": "ACCION Y SUSPENSO",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZskX337rf1j1olXh08DQZjtlikQTmTLRydhZJOLOubmSwteXIwqJwKkf2huj1bElfTffwti9nlBn5uOdqEARRfPx9PF0UMgXMMTTwH4EHzN+cO33H8bqii3xE8EZ792oNyGm+00k63v+qBJiK9rr5LEIiziaNgRbbvvRFqWl6Czr+rq5U2ydazG3C+S72GOUMN6D7kEkd2ti1MnuyD3GFCbg07kej98zoHvUpzsUltCX"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZvqikjZFI1xtezG5SaKs1j3j560Akcw+BSUeXGY4vWunYLPlHrU4+t5kk5cjEB287raRxBfyDLarJMGPW2ZucsuP3ew8j5rPriUz3raEFJRIWyUWFw5+uNfSoaXghVlqh42ZwXQn+EmWdPeLcEqJ0ivB7TMpej8h16ixkQLIhHt8kwcG5LNEr3IC6YmGDru1NUazKNcJBoC9lgwWkhg24Y4JchTLcmnJF1uABczHkIQf4Motp6YeBlM8Y6REVrej0C2yJY2i/o6jgCh1X9gjx1Q="
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZhQBS/KRN84LrWPHzHIPl4L9pZjeqtlPtn+EaA1seJd7rhKNQ6+iJ2h8OVc6+Ne0inLTO2uNWzjwM2M/bf/2zpSekK42e82oPKuh7bgpkVTg9b/3J4k1yp+//L+hAeuurmkTxv9GT+psLagigkmnjWAoWnNQqhqyw+RuNPnHG2xh+eczFBUekyn1Nwzd4c/5Yr6cDDRNaYuvT/dcRWx1Noa2ZsODu7Pfa91PGkdFxAPbe509v/jBBFaaN6WYWvaoEQ=="
       },
       {
@@ -397,7 +403,7 @@
     "name": "MARVEL & DC",
     "samples": [
       {
-        "code": "5OyR3j12Rh+Beu1gkv9WZskX337rf1j1olXh08DQZjtlikQTmTLRydhZJOLOubmSyBnIwL19Epzryk9FuEqzauLFCqgJCc5iJC7p41O+L7nlg7P+WKnzx87ke5ZSm17ZwBGGVCFwbmyxwtTzNQMCxickT3kQeQO4TkTj+ylGI5oSeS4wIbkrx5yg5PdNDSxtjwjqKipVEWTLJAzn9WwMXRl8hpS03wbbqSEds75/MpWEa9j2m5Sx4HPjwFgqeZTdFgTtHmpWpqCvYq0aodR8rg=="
+        "code": "5OyR3j12Rh+Beu1gkv9WZskX337rf1j1olXh08DQZjtlikQTmTLRydhZJOLOubmSyBnIwL19Epzryk9FuEqzauLFCqgJCc5iJC7p41O+L7nlg7P+WKnzx87ke5ZSm17ZwBGGVCFwbmyxwtTzNQMCxickT3kQeQO4TkTj+ylGI5oSeS4wIbkrx5yg5PdNDSxtjwjqKipVEWTLJAzn9WwMXRl8hpS03wbbqSEds75/MpWEa9j2m5Sx4HPjwFgqeZTdTZz4byIocUdAXpUdx/mRUQ=="
       },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZskX337rf1j1olXh08DQZjtlikQTmTLRydhZJOLOubmSZDJvkAr0PYJrKRAincOQgdmYtrjCYr34PWzeRjeArYTIUs38Y7oPznJtZXgINODKvx0zRrYNQFzHDFZPUHUHyvyYSVPKJj6U+acHsE8rGLkCJ5FrRv8meXKlWQ2YWwjb6+SKfF3rFiR/JeqpnB0IayGYQfE98JmIxd+PvCIxt7SbniS+/hJvmjhVBugCtBpp9wPbwPds3bZUvRILIP0SYQ=="
@@ -951,6 +957,24 @@
   {
     "name": "COMEDIAS Y FAMILIA",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZkWsxK//tCygAaUfBfnngCDwjhmbLEwQ/kg8cErXJtphvLF+rgAlqWF2K+1Ey5ONQ4qEDrxzFos/FuIDClzTDQSFl1nEZW7x/hy4mIpFCryuq6FEi16b/O3oj3wpRghtA0KCll84vpdxSrSR8SMsTGnIkKodXfenOaMtlddWx4AdaN+U8JjJNyoM266htu+hsjvz/FDF9nGkJ6kxGQthdz2qBAhO7SVZWCyy7IHUg+GH"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZqpDooxC71lKh4AP1wg0UCOyYAI8ptxsN24OXw7X8VRAgfmZs5M9FajHZ6q1WNurlRef8Kr6R5xrfomG5rqG7Q10jSyCpgcHbhEDOswg7nmLgAaisxwJpnSsFXqfbGyXC7/Ixk5bI8ZBygls98ZgI0a3TD85F3uO0Mk5hV46OtgtYHusGe12WIFWl7hvN24ydHAvGcYbG5DE1OEMz7Jcr6z7FkcPIVqe3kNtpWoUCFKoYgoFhghKdw9lo+cPpcLxLfevY7+PvrR/cEsaZU80EUrgQTAEuYhUwsoaSjcviG3w"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZqpDooxC71lKh4AP1wg0UCOyYAI8ptxsN24OXw7X8VRAkWBj9gitwZ4OFMdCfnRBf0Azihr/HzwcWRzBMUiEJjeVJWsGt5zlQaS8yTo8MNH8Yt+/MSA+k9soXHQYzCo+uv5D4wNhGgB0OpYiEk3u91u2VnbUpdyJTrm4EHQkamui+JzIorZGwkUpEkDhkdh1GdLT6zj83Wx02yZlsQx9wlNMCd3/GtdT2F56WDUB1+cGY90gkcD8ctixSHgrVyimY9Plpoq9G01snlJb0h+opSU="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZskX337rf1j1olXh08DQZjtlikQTmTLRydhZJOLOubmSZDJvkAr0PYJrKRAincOQgZX7mtVljduqEg33Dnayev+fFqlMlLWO8vOrO/7msMpWO6Ps40+dHLDlzDeGzooGSX326TpXXEEWH0ey4h6niFUSeS4wIbkrx5yg5PdNDSxtJGxcNgCKEmAbvG2VJPu05opAvMEPJl0SpBpICZNnAagPSjSAK0u5Z7aH8OXU1Jnag4pqFJKqERZubLrz0bODFg=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZr1zbQeUFpMhHYarZgIvGeClBy3KASHvecLSpLJmLHhUOKbF0Kxrs0hMYc76vMFIg3ih75nG/4LhVJQ/gO8XtoWe7xkJOibKl00XW7HE198U3rDSWDLwEC3wGi4lcIqzjXMyPBRxxvC4+5OgR24NLJC0ioj+bt7Z8aEHXwuxoqyomXxq4DXxCuR/j0gpL+VksjZFpTunsB8UcKdb9TFdsa5oYHvES/dv/dD0uyqn9iOTe509v/jBBFaaN6WYWvaoEQ=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZoUpsyZqfqtesq7IBErQC6vsjOL9Hif/n8c5Mva5jf33uZ8/KNMVTAVy3LidjY677355MtTkcrkL866JehtbeeF4xCJh0hwP3/eYxkB6qEKmyejc+Ec3GQZIgKmPBcOEfnPlteaoEaqvs7yeh7+uE1rLvQV18UV+6g0bW+fjvrkGOQUGgnkJcSy4kCRSPoWvsIMWNLXgUlMHLyBmoIsOPKU="
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZk72ERys5SM+YA+B+rFVnOHLmI0S6djozsFRqcPw7GwhtIzSOdibmrWgFqIln3Lye5UOxzmdkc+Wb3yH+LxujHdLHtNrnRoa+RcypfOvwz09Cix5z5XFYvEVWPsio+Dm+5cPMSItJYvrnSIuUlOpFjaeUPotJsf53X6okEjUi0XAfvtbhGArSTBZIUtjY/Haoyhac1CqGrLD5G40+ccbbGH55zMUFR6TKfU3DN3hz/li4uedo0F4ARuLuNmEsnXLchQ5FvtNRtam1PUcV4wR0mChu/rY/Rrobx3feX1p9BJ1"
       },
