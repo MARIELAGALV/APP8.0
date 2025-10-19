@@ -1369,6 +1369,9 @@
     "name": "COMEDIAS Y FAMILIA",
     "samples": [
       {
+        "code": "5OyR3j12Rh+Beu1gkv9WZskX337rf1j1olXh08DQZjtlikQTmTLRydhZJOLOubmSyBnIwL19Epzryk9FuEqzajF2TB38lI0bbja9EnAiXTtfRXgg/3gji8ifVGosAgKSrSGAN/BZ06wjrXKlIFXMs7qB58KA7puCIWVRmUVdbtYoWnNQqhqyw+RuNPnHG2xh+eczFBUekyn1Nwzd4c/5Yrh73bzIHswUVGcgCrviU35YKRSSfdMoYhD5LB2/rR+BGAEBl6hUesnySY7TajXq6g=="
+      },
+      {
         "code": "5OyR3j12Rh+Beu1gkv9WZvqikjZFI1xtezG5SaKs1j3eNeOf+Pv22SZVQ0PKtJgX3jOF5lWIHU8dptDV7oGmA35HkaLNO5tYAcfvWnr/CFyUTGdDnWY1KkeOhxHpM+oQFQtthcmjC6e2EeiTqEwJSlHxymrXIAVdD87E72V7IXVyYmpNW9qx+u2huuo4P0dk6gIe+MVtlllqWenfNrSev9d5iC7cxA2mVnIF2ilU6y2lYxdzmlBfwD6qE/7ysDiwa54jI6qslDb3w7coN40ZGURki8SZfNBCfxNCBJLioBmhu/rY/Rrobx3feX1p9BJ1"
       },
       {
@@ -1684,6 +1687,18 @@
   {
     "name": "TERROR",
     "samples": [
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZskX337rf1j1olXh08DQZjtlikQTmTLRydhZJOLOubmSwteXIwqJwKkf2huj1bElfXzqKrBSbz4BRVo6wk+dZq8ggOUoJiB+wxMyu59Ux7cBV1kh1t4aYAgBqPTlJLr0axWf96McYrC7l1ruppFo1KD4nMiitkbCRSkSQOGR2HUZ0tPrOPzdbHTbJmWxDH3CU030i+CbyqJIY1zqQBTAwj6dRIK9vaQ39auTvLgEYmpatJbutEP+ztKxLw5GKmFY+w=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZqpDooxC71lKh4AP1wg0UCOyYAI8ptxsN24OXw7X8VRAP+OVBlY1vGp/KE6YcsEJUMNlu1OAo1tt3oG59+7bh/pAbIGvMVrRIuMrx0w1FRl4eaajyrY8ThnS0vGm/8ZApb/Ixk5bI8ZBygls98ZgI0Ydi7RrmETVDf+5QJXTUw7tt0Zf6Q0kgpTDvVavBtOOxQInkWtG/yZ5cqVZDZhbCNvmrix62rA6AaokGv4CSdY4rf8nBTBmNybUE7+mVugFFwgJV7YZEHq/7s5DHoreZ+hIiD5+Lpi1Vhxwt+o0Nft2"
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZskX337rf1j1olXh08DQZjtlikQTmTLRydhZJOLOubmSyBnIwL19Epzryk9FuEqzaiX1Zp2O6BoYIlQxmcBpTEIY79p9l4kB2qKARd1lXcPd2DpTnFo9uy8e+JaKmeU2jHwH7J1Azb41c1/sRePfDbFwLxnGGxuQxNThDM+yXK+s+xZHDyFant5DbaVqFAhSqNtlfENs8BPoXLf2mdJMRVPgyi2nph4GUzxjpERWt6PQumV+sLeaJkVUdjJ5TecEfw=="
+      },
+      {
+        "code": "5OyR3j12Rh+Beu1gkv9WZskX337rf1j1olXh08DQZjtlikQTmTLRydhZJOLOubmSTK4xktNkJ18M956l8UALaQJUuwuJyoYuIhBapmbsT/Xecvq8u8/ungOM+vIfFSE9xLRpBADpS8f6NGdxQqKzJV0FtL+xsg6RtE2gXhvRqxyP3yCdJhIDc4y6OPwDtB1x6/Ksfz3C27a1vdU47ey8EBpnV84VkAxvtkDJBRSAGJqfP1oZN3NFLiHDyjwln7MaJ1dgNpw2rm3238Gr6XjY4GnyBg/NLmtPlXbOs5VtViE="
+      },
       {
         "code": "5OyR3j12Rh+Beu1gkv9WZn3DeDCy/QwOZ0gO3mHKU6DBCBQwNrPE2Xsn/MBYXRQnYcFHmcgVEti+ZnwJ2CLGh0coXypNISwOw/q92odiHVX2YojVCYAT5SjCMmdDmIxna1mpeak7JYAc9+gGdK35yCkz8WKtNoayvE/9MLtWkQa6Kt6nxIAFT+FudIq0FG6UqlvLO9437ZVsC3lbXFR76SjpuR4rjQXVjQobwGz44sQnX79HGWPY32/UF9IYsKXwu4gbDktHg4F0LnZTLBPwxg=="
       },
